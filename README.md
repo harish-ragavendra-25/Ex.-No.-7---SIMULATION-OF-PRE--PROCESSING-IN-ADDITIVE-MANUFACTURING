@@ -42,6 +42,7 @@
 ### Register Number:
 ## STEP 1:
 CAD FILE PREPARATION
+![Screenshot 2023-06-13 213847](https://github.com/harish-ragavendra-25/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/114852180/2802d4c9-0c12-458b-972a-f25afc7a9458)
 ### EXPLANATION:
 Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
 
@@ -50,6 +51,7 @@ Geometry Optimization: Check and optimize the geometry of your CAD model. Ensure
 Scaling and Orientation: Adjust the size and orientation of the model as per your requirements. Consider the limitations and capabilities of your 3D printer and choose the appropriate size and orientation for successful printing.
 ## STEP 2:
 CONVERSION TO STL
+![Screenshot 2023-06-13 213906](https://github.com/harish-ragavendra-25/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/114852180/b89f0b71-d9a5-414c-bc87-aef6a64c3d3c)
 ## EXPLANATION:
 Converting a 3D model to the STL (Standard Tessellation Language) file format is a common pre-processing step in 3D printing. The STL format represents the surface geometry of the object as a collection of interconnected triangles.
 
